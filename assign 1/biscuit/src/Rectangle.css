@@ -1,0 +1,1296 @@
+.rectangle {
+  width: 1728px;
+  height: 8687px;
+  background: #101010;
+  position: relative;
+}
+
+.rectangle-12 {
+  width: 1728px;
+  height: 160px;
+  top: 986px;
+  position: absolute;
+  background: #FFFFFF;
+}
+
+.rectangle-2 {
+  width: 1668px;
+  height: 865px;
+  top: 45px;
+  left: 31px;
+  position: absolute;
+  border-radius: 30px ;
+  background: #4C27AE;
+}
+
+.overlay-image {
+  width: 1293px;
+  height: 93px;
+  position: absolute;
+  top: 50%; /* Center vertically within .rectangle-12 */
+  left: 50%; /* Center horizontally within .rectangle-12 */
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  border-image-source: linear-gradient(0deg, #000000, #000000),
+  linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  opacity: 1; /* Make it visible */
+}
+
+.hero-section {
+  width: 1668px; /* Adjust width as needed */
+  height: 1071px; /* Adjust height as needed */
+  top: 45px;
+  left: 31px;
+  position: absolute;
+  background: transparent; /* Set background to transparent or remove it */
+  /* border: 10px solid #ED7E02; Add border to the hero section */
+}
+
+.hero-image {
+  width: 756px; /* Adjust width as needed */
+  height: 946px; /* Adjust height as needed */
+  top: 150px;
+  left: 924px;
+  position: absolute;
+  opacity: 1; /* Make it visible */
+}
+.cheeseburger {
+  width: 60px;
+  height: 38px;
+  position: absolute;
+  top: 71px; /* Center vertically within .rectangle-2 */
+  right: 60px; /* Position to the right with some margin */
+  transform: translateY(-50%); /* Adjust vertical centering */
+  opacity: 1; /* Make it visible */
+  /* Uncomment if needed */
+  /* background: #ED7E02;
+  border: 10px solid #ED7E02 */
+}
+.rectangle-5{
+  width: 369px;
+  height: 80px;
+  top: 90px;
+  left: 693px;
+  gap: 0px;
+  position: absolute;
+  border-radius: 100px ;
+  opacity: 0px;
+  background: #101010;
+
+}
+.group-30 {
+  width: 234px;
+  height: 50px;
+  position: absolute;
+  top: 50%; /* Center vertically within .rectangle-12 */
+  left: 50%; /* Center horizontally within .rectangle-12 */
+  transform: translate(-50%, -50%);
+
+/* top: 105px;
+left: 748px;
+gap: 0px;
+opacity: 0px; */
+}
+.star-2{
+  width: 186px;
+  height: 186px;
+  position: absolute;
+  top: 22%;
+  left: 5%;
+  /* gap: 0px;
+  opacity: 0px; */
+  
+}
+.content-box{
+  width: 874px;
+  height: 226px;
+  top: 304px;
+  left: 198px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+
+}
+.content-box h1 {
+  font-family: GT America Trial;
+  font-size: 90px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 113.22px;
+  text-align: left;
+  background: transparent;
+}
+.content-box1 {
+  width: 749px;
+  height: 84px;
+  top: 536px;
+  left: 175px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.content-box1 p{
+  font-family: GT America Trial;
+  font-size: 35px;
+  font-weight: 500;
+  color: #FFFFFF;
+  line-height: 27.68px;
+  text-align: left;
+
+}
+.rectangle-1 {
+  width: 519px;
+  height: 123px;
+  top: 703px;
+  left: 175px;
+  padding: 40px 55px 40px 55px;
+  gap: 10px;
+  position: absolute;
+  border-radius: 100px ;
+  opacity: 0px;
+  background: #ED7E02;
+  
+}
+.rectangle-1 h1 {
+  font-family: GT America Trial;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 42.77px;
+  text-align: left;
+
+}
+.arrow{
+  width: 71.51px;
+  height: 40px;
+  top: 42.49px;
+  left: 391.49px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-3 {
+  width: 810px;
+  height: 126px;
+  top: 1249px;
+  left: 167px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-3 p {
+  font-family: GT America Trial;
+  font-size: 55px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 62.9px;
+  text-align: left;
+
+}
+.rectangle-8 {
+  width: 1010px;
+  height: 335px;
+  top: 1483px;
+  left: 100px;
+  position: absolute;
+  gap: 0px;
+  border-radius: 40px ;
+  border: 10px ;
+  opacity: 0px;
+  border: 10px dotted #4C27AE
+ 
+}
+.dollar {
+  width: 200px;
+  height: 200px;
+  top: 20%;
+  left: 5%;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-8a {
+  width: 616px;
+  height: 50px;
+  top: 1626px;
+  left: 450px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+   
+}
+.rectangle-8a p {
+  font-family: GT America Trial;
+  font-size: 50px;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 50.32px;
+  text-align: left;
+
+}
+.rectangle-9 {
+  width: 500px;
+  height: 335px;
+  top: 1483px;
+  left: 1135px;
+  position: absolute;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  background: #ED7E02;
+
+}
+.cash {
+  width: 180px;
+  height: 180px;
+  top: 2%;
+  left: 30%;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-9a {
+  width: 398px;
+  height: 100px;
+  top: 1691px;
+  left: 1186px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-9a p {
+  font-family: GT America Trial;
+  font-size: 40px;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 50.32px;
+  text-align: center;
+
+
+}
+.rectangle-7 {
+  width: 500px;
+  height: 335px;
+  top: 1864px;
+  left: 100px;
+  gap: 0px;
+  position: absolute;
+  border-radius: 40px ;
+  opacity: 0px;
+  angle: -180 deg;
+  background: #ED7E02;
+}
+.board {
+  width: 180px;
+  height: 180px;
+  position: absolute;
+  top: 5%;
+  left: 30%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-7a {
+  width: 298px;
+  height: 100px;
+  position: absolute;
+  top: 2072px;
+  left: 201px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-7a p {
+  font-family: GT America Trial;
+  font-size: 40px;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 50.32px;
+  text-align: center;
+
+}
+.rectangle-6 {
+  width: 1010px;
+  height: 335px;
+  top: 1864px;
+  left: 630px;
+  gap: 0px;
+  position: absolute;
+  border-radius: 40px ;
+  border: 10px ;
+  opacity: 0px;
+  angle: -180 deg;
+  border: 10px dotted #4C27AE
+
+}
+.card {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #101010;
+
+}
+.rectangle-6a {
+  width: 659px;
+  height: 50px;
+  top: 2007px;
+  left: 1000px;
+  position: absolute;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.rectangle-6a p{
+  font-family: GT America Trial;
+  font-size: 45px;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 50.32px;
+  text-align: left;
+
+}
+.rectangle-17 {
+  width: 1528px;
+  height: 592px;
+  top: 2332px;
+  left: 100px;
+  position: absolute;
+  gap: 0px;
+  border-radius: 30px ;
+  opacity: 0px;
+  background: #FFFFFF;
+
+}
+.home {
+  width: 461px;
+  height: 461px;
+  position: absolute;
+  top: 13%;
+  left: 5%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-17a {
+  width: 586px;
+  height: 63px;
+  position: absolute;
+  top: 2442px;
+  left: 725px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-17a p{
+  font-family: GT America Trial;
+  font-size: 55px;
+  font-weight: 900;
+  color: #101010;
+  line-height: 62.9px;
+  text-align: left;
+
+}
+.rectangle-17b {
+  width: 805px;
+  height: 108px;
+  position: absolute;
+  top: 2545px;
+  left: 679px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-17b p{
+  font-family: GT America Trial;
+  font-size: 30px;
+  font-weight: 500;
+  color: #101010;
+  line-height: 27px;
+  text-align: left;
+
+}
+.rectangle-17c {
+  width: 518px;
+  height: 123px;
+  top: 2693px;
+  left: 664px;
+  position: absolute;
+  padding: 40px 55px 40px 55px;
+  gap: 10px;
+  border-radius: 100px ;
+  opacity: 0px;
+  background: #ED7E02;
+
+}
+.rectangle-17d {
+  width: 316px;
+  height: 43px;
+  position: absolute;
+  top: 40px;
+  left: 55px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-17d p{
+  font-family: GT America Trial;
+  font-size: 39px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 42.77px;
+  text-align: left;
+
+}
+.black-arrow {
+  width: 75.51px;
+  height: 43px;
+  position: absolute;
+  top: 32%;
+  left: 70%;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.rectangle-16 {
+  width: 984px;
+  height: 126px;
+  position: absolute;
+  top: 3127px;
+  left: 167px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-16 h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 55px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 62.9px;
+  text-align: left;
+
+}
+.rectangle-19 {
+  width: 671px;
+  height: 713px;
+  position: absolute;
+  top: 3408px;
+  left: 100px;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  /* angle: -180 deg; */
+  background: #4C27AE;
+
+}
+.don {
+  width: 386px;
+  height: 482px;
+  position: absolute;
+  top: 5%;
+  left: 18%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.star-4 {
+  width: 586px;
+  height: 586px;
+  position: absolute;
+  top: 3%;
+  left: 4%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-19a {
+  width: 509px;
+  height: 38px;
+  position: absolute;
+  top: 3993px;
+  left: 186px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-19a p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+
+}
+.rectangle-11 {
+  width: 383px;
+  height: 713px;
+  position: absolute;
+  top: 3408px;
+  left: 810px;
+  gap: 0px;
+  border-radius: 40px ;
+  border: 5px ;
+  opacity: 0px;
+  angle: -180 deg;
+  border: 5px dotted #4C27AE
+
+}
+.robber {
+  width: 291px;
+  height: 364px;
+  position: absolute;
+  top: 8%;
+  left: 12%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-11a {
+  width: 267px;
+  height: 33px;
+  position: absolute;
+  top: 3982px;
+  left: 876px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+
+}
+.rectangle-11a p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 29px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 32.71px;
+  text-align: left;
+
+}
+.rectangle-10 {
+  width: 383px;
+  height: 713px;
+  position: absolute;
+  top: 3408px;
+  left: 1224px;
+  gap: 0px;
+  border-radius: 40px ;
+  border: 5px ;
+  opacity: 0px;
+  angle: -180 deg;
+  border: 5px dotted #4C27AE
+}
+.thief {
+  width: 291px;
+  height: 364px;
+  position: absolute;
+  top: 8%;
+  left: 12%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle-10a {
+  width: 328px;
+  height: 33px;
+  position: absolute;
+  top: 3982px;
+  left: 1269px;
+  gap: 0px;
+  border: 1px ;
+  opacity: 0px;
+
+}
+.rectangle-10a p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 29px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 32.71px;
+  text-align: center;
+  
+}
+.mini-section {
+  width: 1551px;
+  height: 860px;
+  position: absolute;
+  top: 4327px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border:2px solid #ED7E02; */
+
+}
+.mini-section1 {
+  width: 1114px;
+  height: 63px;
+  position: absolute;
+  top: 4327px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.mini-section1 h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 62.9px;
+  text-align: left;
+
+}
+.phone {
+  width: 685px;
+  height: 685px;
+  position: absolute;
+  top: 20%;
+  left: 55%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.mini-section2 {
+  width: 862px;
+  height: 639px;
+  position: absolute;
+  top: 4525px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border:2px solid #4C27AE; */
+
+}
+.mini-section2a {
+  width: 845px;
+  height: 159px;
+  position: absolute;
+  top: 4525px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid red;   */
+}
+.mini-section2b {
+  width: 862px;
+  height: 159px;
+  position: absolute;
+  top: 4765px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid red; */
+}
+.mini-section2c {
+  width: 845px;
+  height: 159px;
+  position: absolute;
+  top: 5005px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid red; */
+}
+.grp1a {
+  width: 108px;
+  height: 38px;
+  top: 4525px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp1a h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+  
+}
+.grp1b {
+  width: 845px;
+  height: 81px;
+  top: 4603px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp1b p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #FFFFFF;
+  line-height: 27px;
+  text-align: left;
+  
+}
+.grp2a {
+  width: 141px;
+  height: 38px;
+  position: absolute;
+  top: 5%;
+  left: 78%;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp2a h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: right;
+   
+}
+.grp2b {
+  width: 862px;
+  height: 81px;
+  position: absolute;
+  top: 25%;
+  left: 0%;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp2b p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #FFFFFF;
+  line-height: 27px;
+  text-align: left;
+    
+}
+.grp3a {
+  width: 114px;
+  height: 38px;
+  top: 5005px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp3a h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+    
+}
+.grp3b {
+  width: 845px;
+  height: 81px;
+  top: 5083px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.grp3b p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #FFFFFF;
+  line-height: 27px;
+  text-align: left;
+   
+}
+.testimonials {
+  width: 1528px;
+  height: 695px;
+  position: absolute;
+  top: 5362px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid red; */
+
+}
+.testimonials1 {
+  width: 1201px;
+  height: 50px;
+  top: 5362px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.testimonials1 h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 50.32px;
+  text-align: center;
+
+}
+.test-rectangle {
+  width: 1528px;
+  height: 563px;
+  position: absolute;
+  top: 18.7%;
+  left: 0%;
+  gap: 0px;
+  border-radius: 30px ;
+  opacity: 0px;
+  background: #ED7E02;
+
+}
+.starr {
+  width: 566px;
+  height: 566px;
+  position: absolute;
+  top: 0%;
+  left: 63%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rect-1 {
+  width: 673px;
+  height: 388px;
+  position: absolute;
+  top: 15%;
+  left: 3%;
+  gap: 0px;
+  border-radius: 20px ;
+  opacity: 0px;
+  background: #FFFFFF;
+
+}
+.rect-2 {
+  width: 673px;
+  height: 388px;
+  position: absolute;
+  top: 15%;
+  left: 53%;
+  gap: 0px;
+  border-radius: 20px ;
+  opacity: 0px;
+  background: #FFFFFF;
+
+}
+.rect-1a {
+  width: 396px;
+  height: 31px;
+  position: absolute;
+  top: 12%;
+  left: 4%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rect-1a h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 29px;
+  font-weight: 900;
+  color: #000000;
+  line-height: 31.45px;
+  text-align: center;
+
+}
+.rect-1b {
+  width: 610px;
+  height: 108px;
+  position: absolute;
+  top: 27%;
+  left: 4%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rect-1b p {
+  font-family: GT America Trial;
+  font-size: 25px;
+  font-weight: 500;
+  color: #101010;
+  line-height: 27px;
+  text-align: left;
+
+}
+.rect-2a {
+  width: 488px;
+  height: 31px;
+  position: absolute;
+  top: 12%;
+  left: 4%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rect-2a h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 29px;
+  color: #000000;
+  font-weight: 900;
+  line-height: 31.45px;
+  text-align: left;
+}
+.rect-2b {
+  width: 610px;
+  height: 108px;
+  position: absolute;
+  top: 27%;
+  left: 4%;
+  gap: 0px;
+  opacity: 0px;
+}
+.rect-2b p {
+  font-family: GT America Trial;
+  font-size: 25px;
+  color: #101010;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+
+}
+.group-15 {
+  width: 232px;
+  height: 49px;
+  position: absolute;
+  top: 74%;
+  left: 25%;
+  gap: 0px;
+  opacity: 0.5px;
+
+}
+.man {
+  width: 78px;
+  height: 78px;
+  position: absolute;
+  top: 70%;
+  left: 7%;
+  border-radius: 50%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.woman {
+  width: 78px;
+  height: 78px;
+  position: absolute;
+  top: 70%;
+  left: 7%;
+  border-radius: 50%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.group-16 {
+  width: 205px;
+  height: 49px;
+  position: absolute;
+  top: 74%;
+  left: 25%;
+  gap: 0px;
+  opacity: 0.5px;
+
+}
+.group-18 {
+  width: 210px;
+  height: 65px;
+  position: absolute;
+  top: 87%;
+  left: 78%;
+  gap: 0px;
+  border-radius: 100px ;
+  opacity: 0px;
+
+}
+.faq {
+  width: 1532.9px;
+  height: 1399.34px;
+  position: absolute;
+  top: 6375px;
+  left: 98px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 4px solid red; */
+
+}
+.faq-rect {
+  width: 1071px;
+  height: 78px;
+  top: 6375px;
+  left: 119px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid palevioletred; */
+
+}
+.faq-rect h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 62.9px;
+  text-align: left;
+
+}
+.faq-1{
+  width: 1535px;
+  height: 226px;
+  position: absolute;
+  top: 15%;
+  left: 0%;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  background: #4C27AE;
+  /* border: 2px solid #ED7E02; */
+  transform: rotate(3deg);
+
+}
+.faq-2 {
+  width: 1535px;
+  height: 226px;
+  position: absolute;
+  top: 36.5%;
+  left: 0%;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  transform: rotate(3deg);
+  background: #4C27AE;
+  /* border: 2px solid red; */
+
+}
+.faq-3 {
+  width: 1535px;
+  height: 226px;
+  position: absolute;
+  top: 57.5%;
+  left: 0%;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  transform: rotate(3deg);
+  background: #4C27AE;
+
+}
+.faq-4 {
+  width: 1535px;
+  height: 226px;
+  position: absolute;
+  top: 78.5%;
+  left: 0%;
+  gap: 0px;
+  border-radius: 40px ;
+  opacity: 0px;
+  transform: rotate(3deg);
+  background: #4C27AE;
+    
+}
+.circle {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 37%;
+  left: 90%;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(3deg);
+
+}
+.faq-1a {
+  width: 1149px;
+  height: 38px;
+  position: absolute;
+  top: 45%;
+  left: 17%;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(0.5deg);
+  
+}
+.faq-1a p {
+  font-family: GT America Trial;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-size: 35px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+
+  
+}
+.faq-2a {
+  width: 885px;
+  height: 38px;
+  position: absolute;
+  top: 45%;
+  left: 17%;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(0.5deg);
+  
+}
+.faq-2a p {
+  font-family: GT America Trial;
+  font-size: 35px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+   
+}
+.faq-3a {
+  width: 762px;
+  height: 38px;
+  position: absolute;
+  top: 45%;
+  left: 17%;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(0.5deg);
+   
+}
+.faq-3a p {
+  font-family: GT America Trial;
+  font-size: 35px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+  
+}
+.faq-4a {
+  width: 998px;
+  height: 38px;
+  position: absolute;
+  top: 45%;
+  left: 17%;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(0.5deg);
+   
+}
+.faq-4a p {
+  font-family: GT America Trial;
+  font-size: 35px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 37.74px;
+  text-align: left;
+   
+}
+.newsletter {
+  width: 1528px;
+  height: 428px;
+  position: absolute;
+  top: 7981px;
+  left: 103px;
+  gap: 0px;
+  border-radius: 30px ;
+  opacity: 0px;
+  /* angle: -0 deg; */
+  background: #FFFFFF;
+}
+.letter1 {
+  width: 1212px;
+  height: 86px;
+  position: absolute;
+  top: 20%;
+  left: 3%;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.letter1 h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 34px;
+  font-weight: 900;
+  color: #000000;
+  line-height: 42.77px;
+  text-align: left;
+  
+}
+.letter2 {
+  width: 1428px;
+  height: 130px;
+  position: absolute;
+  top: 60%;
+  left: 3%;
+  gap: 0px;
+  border-radius: 100px ;
+  opacity: 0px;
+  background: #E9E9E9;
+
+
+}
+.letter3 {
+  width: 610px;
+  height: 27px;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 2px solid red; */
+  
+}
+.letter3 p {
+  font-family: GT America Trial;
+  font-size: 28px;
+  font-weight: 500;
+  color: #101010;
+  line-height: 27px;
+  text-align: left;
+  opacity: 50%;
+  
+}
+.letter4 {
+  width: 260px;
+  height: 100px;
+  position: absolute;
+  top: 12%;
+  left: 80%;
+  gap: 0px;
+  border-radius: 100px ;
+  opacity: 0px;
+  background: #101010;
+
+}
+.letter5 {
+  width: 126px;
+  height: 20px;
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.letter5 h5 {
+  font-family: GT America Trial;
+  font-size: 26px;
+  font-weight: 900;
+  color: #FFFFFF;
+  line-height: 20.13px;
+  text-align: left;
+  
+}
+.moon {
+  width: 186px;
+  height: 186px;
+  position: absolute;
+  top: 5%;
+  left: 85%;
+  gap: 0px;
+  opacity: 0px;
+  
+}
